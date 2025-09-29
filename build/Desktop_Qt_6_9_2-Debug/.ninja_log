@@ -1,0 +1,22 @@
+# ninja log v6
+98	129	1759002092753796124	CMakeFiles/qtMain.dir/player.cpp.o	19b4ca7bcf646ae8
+46	1393	1759158583143753573	CMakeFiles/qtMain.dir/main.cpp.o	8b7708c8ad79c56
+66	84	1758883210434107418	CMakeFiles/qtMain.dir/game.cpp.o	199df3ec50c34b4c
+94	114	1758518040835876559	CMakeFiles/qtMain.dir/qtMain_autogen/mocs_compilation.cpp.o	64dd3d9d7a9d98a2
+34	291	1758528844027115813	CMakeFiles/qtMain.dir/car.cpp.o	2c6a1fab19525960
+36	46	1759158583132915834	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/qtMain_autogen/timestamp	2c15dd259a51ba7f
+1393	1559	1759158584489936525	qtMain	ec022bccd6a8200a
+36	46	1759158583132915834	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/qtMain_autogen/mocs_compilation.cpp	2c15dd259a51ba7f
+36	46	1759158583132915834	qtMain_autogen/mocs_compilation.cpp	2c15dd259a51ba7f
+77	786	1758526607320136656	CMakeFiles/qtMain.dir/account.cpp.o	33e017ea1b028993
+36	46	1759158583132915834	qtMain_autogen/timestamp	2c15dd259a51ba7f
+1	35	1759158583097915300	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/cmake.verify_globs	9642c94c1a557fe4
+1	25	1759158604083351758	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/cmake.verify_globs	9642c94c1a557fe4
+1	26	1759158613979384574	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/cmake.verify_globs	9642c94c1a557fe4
+1	43	1759158890689466369	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/CMakeFiles/cmake.verify_globs	9642c94c1a557fe4
+44	54	1759158890732466989	qtMain_autogen/timestamp	2c15dd259a51ba7f
+44	54	1759158890732466989	qtMain_autogen/mocs_compilation.cpp	2c15dd259a51ba7f
+44	54	1759158890732466989	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/qtMain_autogen/timestamp	2c15dd259a51ba7f
+44	54	1759158890732466989	/home/zaxufl/Pulpit/Coding/qtMain/build/Desktop_Qt_6_9_2-Debug/qtMain_autogen/mocs_compilation.cpp	2c15dd259a51ba7f
+54	1641	1759158890742467133	CMakeFiles/qtMain.dir/main.cpp.o	8b7708c8ad79c56
+1641	1741	1759158892329490022	qtMain	ec022bccd6a8200a
